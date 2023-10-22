@@ -1,9 +1,9 @@
   <h1 style="font-size: 36px; margin-bottom: 10px;">PRTHMSH7</h1>
-  <p style="font-size: 18px;">Some additional information or description</p>
+  <p style="font-size: 18px;">A passionate learner from India currently learning front-end web development and also working on learning Devops.</p>
 </header>
 
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
-<h3 align="center">A passionate learner from India currently learning front-end web development and also working on learning Devops.</h3>
+<h3 align="center">Debugging: fixing code you didn't know you wrote for a problem you didn't know you had.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
 
