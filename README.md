@@ -1,5 +1,5 @@
   <h1 style="font-size: 36px; margin-bottom: 10px;">PRTHMSH7</h1>
-  <p style="font-size: 18px;">A passionate learner from India currently learning front-end web development and also working on learning Devops.</p>
+  <p style="font-size: 18px;">Front-End Designer and Developer / DevOps Enthusiast / CSE'26 / Indian</p>
 </header>
 
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
