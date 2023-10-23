@@ -2,8 +2,10 @@
   <p style="font-size: 18px;">Front-End Designer and Developer / DevOps Enthusiast / CSE'26 / Indian</p>
 </header>
 
-<h1 align="center">Hi 👋, I'm Prathmesh</h1>
+<h1 align="center">Hi, I'm Prathmesh 👋</h1>
 <h3 align="center">I fix code that you didn't know you wrote for a problem that you didn't know you had.</h3>
+<h3>About me :</h3>
+<h4>Lorem Ipsum 100</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
 
