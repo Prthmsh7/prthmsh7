@@ -1,12 +1,12 @@
-  <h1 style="font-size: 36px; margin-bottom: 10px;">PRTHMSH7</h1>
-  <p style="font-size: 18px;">Front-End Designer and Developer / DevOps Enthusiast / CSE'26 / Indian</p>
+<h1 style="font-size: 36px; margin-bottom: 10px;">PRTHMSH7</h1>
+<p style="font-size: 18px;">Front-End Designer and Developer / DevOps Enthusiast / CSE'26 / Indian</p>
 </header>
 
 <h1 align="center">Hi, I'm Prathmesh 👋</h1>
 <h3 align="center">I fix code that you didn't know you wrote for a problem that you didn't know you had.</h3>
 <h3>About me :</h3>
 <h4>Lorem Ipsum 100</h4>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prthmsh7&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Prthmsh7&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
 
