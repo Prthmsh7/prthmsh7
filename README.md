@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px; margin-bottom: 10px;">PRTHMSH7</h1>
+<h1 style="font-size: 36px; margin-bottom: 10px;">PRA7HMESH</h1>
 <p style="font-size: 18px;">Front-End Designer and Developer / DevOps Enthusiast / CSE'26 / Indian</p>
 </header>
 
