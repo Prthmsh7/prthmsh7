@@ -3,11 +3,11 @@
 </header>
 
 <h1 align="center">Hi, I'm Prathmesh 👋</h1>
-<h3 align="center">I fix code that you didn't know you wrote for a problem that you didn't know you had.</h3>
+<h3>I'm a Computer Science Undergrad. I'm currently learning Fullstack Web development and Designing</h3>
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
-<h3>I'm a Computer Science Undergrad. I'm currently learning Fullstack Web development and Designing</h3>
+
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prthmsh7&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
