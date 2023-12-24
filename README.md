@@ -15,6 +15,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prthmsh7" alt="prthmsh7" /></a> </p>
 
+[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
+
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
 - 📫 How to reach me **prathmeshshukla2106@gmail.com**
