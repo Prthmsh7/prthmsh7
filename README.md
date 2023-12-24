@@ -13,8 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
 
-[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prthmsh7" alt="prthmsh7" /></a> </p>
 
 
