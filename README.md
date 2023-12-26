@@ -15,11 +15,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prthmsh7" alt="prthmsh7" /></a> </p>
 
-
-
+- Contact me: **prathmeshshukla2106@gmail.com**
+- 
 - Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
-- Contact me: **prathmeshshukla2106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
