@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
-- 📫 How to reach me **prathmeshshukla2106@gmail.com**
+- Contact me: **prathmeshshukla2106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
