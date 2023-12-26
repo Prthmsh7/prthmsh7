@@ -17,7 +17,7 @@
 
 
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
+- Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
 - Contact me: **prathmeshshukla2106@gmail.com**
 
