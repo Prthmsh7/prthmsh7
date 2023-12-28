@@ -19,7 +19,7 @@
 - Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prthmsh7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prthmsh7" height="30" width="40" /></a>
