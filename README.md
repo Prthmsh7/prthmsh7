@@ -20,15 +20,12 @@
 
 
 <h3 align="left">Find me on:</h3>
-<p align="left">
-<a href="https://twitter.com/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://instagram.com/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://www.behance.net/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prthmsh7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prthmsh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prthmsh7" height="30" width="40" /></a>
-</p>
+<P>Linkedin</P>
+<P>X</P>
+<P>Instagram</P>
+<P>Leetcode</P>
+<P>Geeksforgeeks</P>
+
 
 <h3 align="left">**Tech Stack and Tools:**</h3>
 <p>C</p>
