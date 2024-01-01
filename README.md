@@ -27,7 +27,7 @@
 <P>Geeksforgeeks</P>
 
 
-<h3 align="left">**Tech Stack and Tools:**</h3>
+<h3 align="left">Tech Stack and Tools:</h3>
 <p>C</p>
 <p>C++</p>
 <p>Python</p>
