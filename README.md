@@ -3,7 +3,7 @@
 </header>
 
 <h1 align="center">Hi, I'm Prathmesh 👋</h1>
-<h3>I'm a Computer Science Undergrad. I'm currently learning Fullstack Web development and Designing</h3>
+<h3>I'm a Computer Science Undergrad and currently learning Fullstack Web development and Designing</h3>
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
