@@ -18,14 +18,12 @@
 - Contact me: **prathmeshshukla2106@gmail.com**
 - Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
-
 <h3 align="left">Find me on:</h3>
 <P>Linkedin</P>
 <P>X</P>
 <P>Instagram</P>
 <P>Leetcode</P>
 <P>Geeksforgeeks</P>
-
 
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>C</p>
@@ -34,8 +32,10 @@
 <p>HTML</p>
 <p>CSS</p>
 <p>Javascript</p>
+<p>React.js</p>
 <p>SQL</p>
 <p>Git</p>
 <p>Github</p>
+<p>UNIX</p>
 <p>Linux</p>
 <p>Visual Studio Code</p>
