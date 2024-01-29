@@ -8,8 +8,6 @@
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
-
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prthmsh7&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
