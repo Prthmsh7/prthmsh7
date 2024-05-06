@@ -36,6 +36,8 @@
 <p>SQL</p>
 <p>Git</p>
 <p>Github</p>
+<p>Arch Linux</p>
+<p>Ubuntu</p>
 <p>UNIX</p>
-<p>Linux</p>
+<p>Vim</p>
 <p>Visual Studio Code</p>
