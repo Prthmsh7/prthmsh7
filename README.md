@@ -33,6 +33,7 @@
 <p>CSS</p>
 <p>Javascript</p>
 <p>React.js</p>
+<p>Node.js</p>
 <p>SQL</p>
 <p>Git</p>
 <p>Github</p>
