@@ -35,6 +35,7 @@
 <p>React.js</p>
 <p>Node.js</p>
 <p>SQL</p>
+<p>Figma</p>
 <p>Git</p>
 <p>Github</p>
 <p>Arch Linux</p>
