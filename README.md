@@ -21,20 +21,11 @@
 <P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks</P>
 
 <h3 align="left">Tech Stack and Tools:</h3>
-<p>C</p>
-<p>C++</p>
-<p>Python</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>Javascript</p>
-<p>React.js</p>
-<p>Node.js</p>
-<p>SQL</p>
-<p>Figma</p>
-<p>Git</p>
-<p>Github</p>
-<p>Arch Linux</p>
-<p>Ubuntu</p>
-<p>UNIX</p>
-<p>Vim</p>
-<p>Visual Studio Code</p>
+<p>Languages : C, C++, Python, Javascript</p>
+<p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
+<p>Frameworks : React.js</p>
+<p>Back-end Tools : Node.js, SQL, MySql</p>
+<p>Environments : Node.js</p>
+<p>Version Control and tools : Git and Github</p>
+<p>Operating Systems : Windows, Unix, Linux, Ubuntu, Arch Linux</p>
+<p>Terminals and editors : Visual Studio Code, Vim , Neovim</p>
