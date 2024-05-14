@@ -18,11 +18,7 @@
 - Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
 
 <h3 align="left">Find me on:</h3>
-<P>Linkedin</P>
-<P>X</P>
-<P>Instagram</P>
-<P>Leetcode</P>
-<P>Geeksforgeeks</P>
+<P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks</P>
 
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>C</p>
