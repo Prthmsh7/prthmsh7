@@ -2,8 +2,8 @@
 <p style="font-size: 18px;"> Developer / Designer / Open-Source / CSE'26 / Indian</p>
 </header>
 
-<h1 align="center">Hi, I'm Prathmesh 👋</h1>
-<h3>I'm a Computer Science Undergrad and currently learning Fullstack Web development and Designing.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2000&pause=500&color=289DF4&vCenter=true&random=false&width=500&height=60&lines=Hey!+I'm+Prathmesh+%F0%9F%91%8B;I'm+a+Computer+Science+Undergrad.;+I+like+to+design+and+develop+projects.;Ohh+wait!+I+forgot+to+tell+you+something!;I+use+Arch+btw+%3A))](https://git.io/typing-svg)
+
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
