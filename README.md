@@ -2,7 +2,7 @@
 <p style="font-size: 18px;"> Developer / Designer / Open-Source / CSE'26 / Indian</p>
 </header>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=289DF4&vCenter=true&random=false&width=450&lines=Hey!+I'm+Prathmesh+%F0%9F%91%8B;I'm+a+Computer+Science+Undergrad.;+I+like+to+design+and+develop+projects.;Ohh+wait!+I+forgot+to+tell+you+something!;I+use+Arch+btw+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=289DF4&vCenter=true&random=false&width=750&lines=Hey!+I'm+Prathmesh+%F0%9F%91%8B;I'm+a+Computer+Science+Undergrad.;+I+like+to+design+and+develop+projects.;Ohh+wait!+I+forgot+to+tell+you+something!;I+use+Arch+btw+%3A))](https://git.io/typing-svg)
 
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
