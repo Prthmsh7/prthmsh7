@@ -15,7 +15,7 @@
 <p>Languages : C, C++, Python, Javascript</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
 <p>Frameworks : React.js</p>
-<p>Back-end Tools : Node.js, SQL, MySql</p>
+<p>Back-end Tools : SQL, MySql</p>
 <p>Environments : Node.js</p>
 <p>Version Control and tools : Git and Github</p>
 <p>Operating Systems : Windows, Unix, Linux, Ubuntu, Arch Linux</p>
