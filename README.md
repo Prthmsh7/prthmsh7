@@ -8,9 +8,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prthmsh7&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
-<h3 align="left">Find me on:</h3>
-<P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks, Fiverr</P>
-
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>Languages : C, C++, Python, Javascript</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
@@ -21,6 +18,8 @@
 <p>Operating Systems : Windows, Unix, Linux, Ubuntu, Arch Linux</p>
 <p>Terminals and editors : Visual Studio Code, Vim , Neovim</p>
 
+<h3 align="left">Find me on:</h3>
+<P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks, Fiverr</P>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prthmsh7&label=Profile%20views&color=0e75b6&style=flat" alt="prthmsh7" /> </p>
