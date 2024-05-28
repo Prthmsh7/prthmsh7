@@ -8,6 +8,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prthmsh7&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
+[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
+
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>Languages : C, C++, Python, Javascript</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
@@ -28,3 +30,5 @@
 
 - Contact me: **prathmeshshukla2106@gmail.com**
 - Read my articles on: [https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/](https://www.geeksforgeeks.org/introduction-to-google-cloud-bigtable/)
+
+- 
