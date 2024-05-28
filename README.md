@@ -10,8 +10,6 @@
 
 [![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prthmsh7&show_icons=true&locale=en&layout=compact" alt="prthmsh7" /></p>
-
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>Languages : C, C++, Python, Javascript</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
@@ -21,6 +19,8 @@
 <p>Version Control and tools : Git and Github</p>
 <p>Operating Systems : Windows, Unix, Linux, Ubuntu, Arch Linux</p>
 <p>Terminals and editors : Visual Studio Code, Vim , Neovim</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
 
 <h3 align="left">Find me on:</h3>
 <P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks, Fiverr</P>
