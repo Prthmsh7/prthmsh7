@@ -10,6 +10,8 @@
 
 [![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prthmsh7&show_icons=true&locale=en&layout=compact" alt="prthmsh7" /></p>
+
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>Languages : C, C++, Python, Javascript</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
