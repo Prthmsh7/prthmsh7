@@ -17,7 +17,7 @@
 <p>Back-end Tools : SQL, MySql</p>
 <p>Environments : Node.js</p>
 <p>Version Control and tools : Git and Github</p>
-<p>Operating Systems : Windows, Unix, Linux, Ubuntu, Arch Linux</p>
+<p>Operating Systems : Windows, Linux, Ubuntu, Arch Linux</p>
 <p>Terminals and editors : Visual Studio Code, Vim , Neovim</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
