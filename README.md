@@ -1,5 +1,5 @@
 <h1 style="font-size: 36px; margin-bottom: 10px;">PRA7HMESH</h1>
-<p style="font-size: 18px;"> Developer / Designer / Open-Source / CSE'26 / Indian</p>
+<p style="font-size: 18px;"> 2x Hackathon Winner / Developer / Designer / Open-Source / CSE'26 / Indian</p>
 </header>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=289DF4&vCenter=true&random=false&width=750&lines=Hey!+I'm+Prathmesh+%F0%9F%91%8B;I'm+a+Computer+Science+Undergrad.;+I+like+to+design+and+develop+projects.;Ohh+wait!+I+forgot+to+tell+you+something!;I+use+Arch+btw+'))](https://git.io/typing-svg)
