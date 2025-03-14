@@ -11,7 +11,7 @@
 [![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
 
 <h3 align="left">Tech Stack and Tools:</h3>
-<p>Languages : C, C++, Python, Javascript</p>
+<p>Languages : C, C++, Python, Javascript, (Learning D)</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
 <p>Frameworks : React.js</p>
 <p>Back-end Tools : SQL, MySql</p>
