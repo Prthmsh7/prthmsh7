@@ -7,20 +7,21 @@
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
 
+
 ### ⚡ Commit Stats
 <p align="center">
   <picture>
-    <!-- Dark mode -->
+    <!-- Dark mode SVG served when viewer prefers dark theme -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake-dark.svg"
     />
-    <!-- Light mode -->
+    <!-- Light mode SVG served when viewer prefers light theme -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
     />
-    <!-- Fallback -->
+    <!-- Fallback ensures older clients still see the snake -->
     <img
       alt="GitHub Commit Snake"
       src="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
