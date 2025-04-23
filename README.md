@@ -13,17 +13,17 @@
     <!-- Dark mode -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/Prthmsh7/prthmsh7/blob/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake-dark.svg"
     />
     <!-- Light mode -->
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Prthmsh7/prthmsh7/blob/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
     />
     <!-- Fallback -->
     <img
       alt="GitHub Commit Snake"
-      src="https://github.com/Prthmsh7/prthmsh7/blob/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
     />
   </picture>
 </p>
