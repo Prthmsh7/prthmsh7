@@ -8,8 +8,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prthmsh7&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
-[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
+<!-- [![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats) -->
 
+<!--
 <h3 align="left">Tech Stack and Tools:</h3>
 <p>Languages : C, C++, Python, Javascript, (Learning D)</p>
 <p>Front-end Tools : Html, Css, Javascript, React.js, Figma</p>
@@ -19,8 +20,11 @@
 <p>Version Control and tools : Git and Github</p>
 <p>Operating Systems : Windows, Linux, Ubuntu, Arch Linux</p>
 <p>Terminals and editors : Visual Studio Code, Vim , Neovim</p>
+-->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prthmsh7)](https://github.com/prthmsh7/github-readme-stats)
+-->
 
 <h3 align="left">Find me on:</h3>
 <P>Linkedin, X, Instagram, Leetcode, GeeksforGeeks, Fiverr</P>
