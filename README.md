@@ -6,22 +6,22 @@
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
-
+  <!--
 
 ### ⚡ Commit Stats
 <p align="center">
   <picture>
-    <!-- Dark mode SVG served when viewer prefers dark theme -->
+    
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake-dark.svg"
     />
-    <!-- Light mode SVG served when viewer prefers light theme -->
+    
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
     />
-    <!-- Fallback ensures older clients still see the snake -->
+    
     <img
       alt="GitHub Commit Snake"
       src="https://raw.githubusercontent.com/Prthmsh7/prthmsh7/output/github-snake.svg"
@@ -36,12 +36,12 @@
 
 <div align="center" style="max-width:800px; margin:auto;">
 
-<!-- Skills & Connect Section -->
+
 <div align="center" style="max-width:800px; width:100%; margin:auto; padding:16px;">
   <h2 style="font-size:24px; margin-bottom:12px;">💼 Skills & 🔗 Connect</h2>
 
   <div style="display:flex; flex-wrap:wrap; justify-content:space-between; gap:24px;">
-    <!-- Skills Panel -->
+    
     <div style="flex:1 1 45%; min-width:280px; background:#f5f5f5; border-radius:8px; padding:16px;">
       <h3 style="font-size:20px; margin-bottom:8px;">🛠️ My Skills</h3>
       <div style="line-height:1.6; font-size:14px;">
@@ -67,7 +67,7 @@
         </a>
       </div>
     </div>
-    <!-- Connect Panel -->
+    
     <div style="flex:1 1 45%; min-width:280px; background:#f5f5f5; border-radius:8px; padding:16px;">
       <h3 style="font-size:20px; margin-bottom:8px;">🔗 Connect</h3>
       <div style="display:flex; flex-wrap:wrap; gap:8px; font-size:0;">
@@ -97,4 +97,4 @@
 
   </div>
 </div>
-
+-->
