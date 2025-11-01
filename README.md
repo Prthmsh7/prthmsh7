@@ -6,6 +6,13 @@
 
 [![An image of @prthmsh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prthmsh7)](https://holopin.io/@prthmsh7)
 
+
+## Snakie
+
+![snake gif](https://raw.githubusercontent.com/arrrzushi/arrrzushi/output/github-contribution-grid-snake-dark.svg)
+
+
+
   <!--
 
 ### ⚡ Commit Stats
