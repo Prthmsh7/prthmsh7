@@ -50,7 +50,7 @@ def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
+    request = request_with_retry(query, variables)
     if request.status_code == 200:
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
@@ -150,7 +150,8 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         }
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
+    # I cannot use simple_request(), because I want to save the file before raising Exception
+    request = request_with_retry(query, variables)
     if request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
@@ -159,6 +160,32 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
     if request.status_code == 403:
         raise Exception('Too many requests in a short amount of time!\nYou\'ve hit the non-documented anti-abuse limit!')
     raise Exception('recursive_loc() has failed with a', request.status_code, request.text, QUERY_COUNT)
+
+
+def request_with_retry(query, variables, attempts=5):
+    """
+    POSTs a GraphQL query, retrying transient failures with exponential backoff.
+
+    A cold run walks every repository's commit history, which is thousands of calls, and
+    GitHub answers a slice of them with a 502 or throttles with a 403. Both are temporary,
+    so retrying in place keeps a first run going instead of losing it. Returns the last
+    response either way; the caller decides whether to save the cache and raise.
+
+    On a 403 the Retry-After header is honoured when present, since that is the API telling
+    us exactly how long the secondary rate limit lasts.
+    """
+    delay = 2
+    for attempt in range(attempts):
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables': variables}, headers=HEADERS)
+        if request.status_code not in (403, 429, 500, 502, 503):
+            return request
+        if attempt == attempts - 1:
+            return request
+        wait = int(request.headers.get('Retry-After', delay))
+        print(f'   retrying after {request.status_code} in {wait}s (attempt {attempt + 1}/{attempts})')
+        time.sleep(wait)
+        delay = min(delay * 2, 60)
+    return request
 
 
 def loc_counter_one_repo(owner, repo_name, data, cache_comment, history, addition_total, deletion_total, my_commits):
@@ -317,9 +344,9 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     justify_format(root, 'repo_data', repo_data, 6)
     justify_format(root, 'contrib_data', contrib_data)
     justify_format(root, 'follower_data', follower_data, 10)
-    justify_format(root, 'loc_data', loc_data[2], 9)
-    justify_format(root, 'loc_add', loc_data[0])
-    justify_format(root, 'loc_del', loc_data[1], 7)
+    justify_format(root, 'loc_data', loc_data[2], 42)   # key 'Lines of Code'
+    justify_format(root, 'loc_add', loc_data[0], 44)    # key 'Lines Added'
+    justify_format(root, 'loc_del', loc_data[1], 42)    # key 'Lines Deleted'
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
 
