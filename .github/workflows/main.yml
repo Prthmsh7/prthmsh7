@@ -31,7 +31,12 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
         run: python today.py
+      # always(): a cold walk over every repository can exceed the hourly GraphQL budget and
+      # die partway. today.py saves the cache before it raises, but that file only survives if
+      # it is committed — with the default if:success() the partial cache is discarded and every
+      # run restarts from zero, so the LOC count never converges.
       - name: Commit
+        if: always()
         run: |-
           git add .
           git diff
