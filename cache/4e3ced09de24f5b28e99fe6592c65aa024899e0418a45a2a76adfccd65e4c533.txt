@@ -1,0 +1,7 @@
+This is a cache of all of the repositories I own, have contributed to, or am a member of.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \_____________  \
+          \                \                \______________________  \  \
+           \                \___________________________________   \  \  \
+____________\___________________________________________________\___\__\__\_______
