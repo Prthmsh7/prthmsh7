@@ -79,12 +79,16 @@ def graph_commits(start_date, end_date):
 def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del_loc=0):
     """
     Uses GitHub's GraphQL v4 API to return my total repository, star, or lines of code count.
+
+    isFork: false here too, so the repo and star counts describe the same set of repositories
+    that loc_query() actually walks. Counting forks I never wrote code in would inflate the
+    repo total while contributing nothing to the commit and LOC figures beside it.
     """
     query_count('graph_repos_stars')
     query = '''
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
         user(login: $login) {
-            repositories(first: 100, after: $cursor, ownerAffiliations: $owner_affiliation) {
+            repositories(first: 100, after: $cursor, ownerAffiliations: $owner_affiliation, isFork: false) {
                 totalCount
                 edges {
                     node {
@@ -210,12 +214,18 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     Queries 60 repos at a time, because larger queries give a 502 timeout error and smaller queries send too many
     requests and also give a 502 error.
     Returns the total number of lines of code in all repositories
+
+    isFork: false excludes forks, which is what keeps this affordable. Forks carry the whole
+    upstream history: 32 of them accounted for 1364 of 1454 commit-history calls, and
+    loc_counter_one_repo() discards all but the handful of commits I actually authored. Skipping
+    them cuts the cold walk to ~90 calls, well inside the 1000/hour GITHUB_TOKEN budget.
+    The tradeoff is that commits I made inside a fork are not counted.
     """
     query_count('loc_query')
     query = '''
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
         user(login: $login) {
-            repositories(first: 60, after: $cursor, ownerAffiliations: $owner_affiliation) {
+            repositories(first: 60, after: $cursor, ownerAffiliations: $owner_affiliation, isFork: false) {
             edges {
                 node {
                     ... on Repository {
