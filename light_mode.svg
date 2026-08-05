@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="490px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="490px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">*************:.    .......:####*****</tspan>
 <tspan x="15" y="50">::*******##*    .::. ...   :#######*</tspan>
@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">prathmesh@shukla</tspan> -—————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Arch Linux, macOS, Android</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">3 years, 9 months, 19 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">3 years, 9 months, 18 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">VSCode, Android Studio</tspan>
 <tspan x="390" y="110" class="cc">. </tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C++, JavaScript, Python, Dart</tspan>
@@ -59,10 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Prthmsh7</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">pra-7-hmesh.vercel.app</tspan>
 <tspan x="390" y="410">- GitHub Stats</tspan> -——————————————————————————————————————————-—-
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">77</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">89</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">20</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ...................... </tspan><tspan class="value" id="commit_data">—</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">38</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ......................................... </tspan><tspan class="value" id="loc_data">—</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Lines Added</tspan>:<tspan class="cc" id="loc_add_dots"> ........................................... </tspan><tspan class="addColor" id="loc_add">—</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines Deleted</tspan>:<tspan class="cc" id="loc_del_dots"> ......................................... </tspan><tspan class="delColor" id="loc_del">—</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ............................................... </tspan><tspan class="value" id="repo_data">107</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ................................................ </tspan><tspan class="value" id="star_data">25</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ............................................ </tspan><tspan class="value" id="follower_data">38</tspan>
 </text>
 </svg>
